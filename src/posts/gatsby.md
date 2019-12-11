@@ -5,6 +5,8 @@ date: '2019-12-10'
 
 I just launched a new bootcamp!
 
+![hero](./hero.jpg)
+
 ## Topics Covered
 
 1. Gatsby
